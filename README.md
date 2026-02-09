@@ -24,7 +24,7 @@ I am focusing on building strong fundamentals and improving my problem-solving s
 - `py3_conditional_statement.py` – Conditional statements  
 - `py3_single_line_if.py` – Single line if examples  
 - `py3_clever_if.py` – Smart conditional logic  
-- `simple_Interest.py` - alculate simple interest
+- `simple_Interest.py` - Calculate simple interest
 
 
 ---
