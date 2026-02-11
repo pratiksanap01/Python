@@ -12,4 +12,4 @@ marks.update({"phy": phy_marks})
 marks.update({"chem": chem_marks}) 
 marks.update({"math": math_marks}) 
 
-print(marks)
+print(type(marks))
